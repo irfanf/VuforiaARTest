@@ -1,1 +1,1 @@
-# VuforiaARTest
+# TridentAR

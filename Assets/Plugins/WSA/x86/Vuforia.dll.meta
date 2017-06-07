@@ -3,12 +3,13 @@ guid: e0bd4dfc292bca04ba66f7e89e9f4ae6
 timeCreated: 1486470568
 licenseType: Pro
 PluginImporter:
-  serializedVersion: 1
+  serializedVersion: 2
   iconMap: {}
   executionOrder: {}
   isPreloaded: 0
   isOverridable: 0
   platformData:
+<<<<<<< HEAD
     Editor:
       enabled: 0
       settings:
@@ -20,6 +21,28 @@ PluginImporter:
     data:
       enabled: 0
       settings: {}
+=======
+    data:
+      first:
+        Any: 
+      second:
+        enabled: 0
+        settings: {}
+    data:
+      first:
+        Editor: Editor
+      second:
+        enabled: 0
+        settings:
+          DefaultValueInitialized: true
+    data:
+      first:
+        Windows Store Apps: WindowsStoreApps
+      second:
+        enabled: 1
+        settings:
+          CPU: x86
+>>>>>>> 37dfaa1685d0cf484e43d1dc69a88f79685b65f4
   userData: 
   assetBundleName: 
   assetBundleVariant: 

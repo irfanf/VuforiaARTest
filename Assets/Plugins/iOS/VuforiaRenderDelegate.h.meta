@@ -1,12 +1,24 @@
 fileFormatVersion: 2
 guid: 52beab4a9c70b3144baeb2cd8e52a671
 PluginImporter:
+<<<<<<< HEAD
   serializedVersion: 1
+=======
+<<<<<<< HEAD
+  serializedVersion: 1
+=======
+  serializedVersion: 2
+>>>>>>> 37dfaa1685d0cf484e43d1dc69a88f79685b65f4
+>>>>>>> 8f0e2aaa107fc28dfcf5ccb45bc60979e0334611
   iconMap: {}
   executionOrder: {}
   isPreloaded: 0
   isOverridable: 0
   platformData:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 8f0e2aaa107fc28dfcf5ccb45bc60979e0334611
     Editor:
       enabled: 0
       settings:
@@ -17,6 +29,30 @@ PluginImporter:
     iOS:
       enabled: 1
       settings: {}
+<<<<<<< HEAD
+=======
+=======
+    data:
+      first:
+        Any: 
+      second:
+        enabled: 0
+        settings: {}
+    data:
+      first:
+        Editor: Editor
+      second:
+        enabled: 0
+        settings:
+          DefaultValueInitialized: true
+    data:
+      first:
+        iPhone: iOS
+      second:
+        enabled: 1
+        settings: {}
+>>>>>>> 37dfaa1685d0cf484e43d1dc69a88f79685b65f4
+>>>>>>> 8f0e2aaa107fc28dfcf5ccb45bc60979e0334611
   userData: 
   assetBundleName: 
   assetBundleVariant: 
